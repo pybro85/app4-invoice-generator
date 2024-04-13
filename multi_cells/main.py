@@ -12,4 +12,4 @@ quis nostrud exercitation ullamco.
  
 pdf.set_font(family="Times", size=12)
 pdf.multi_cell(w=0, h=6, txt=content)
-pdf.output("multi_cells/output.pdf")
+pdf.output("multi_cells/output.pdf")    
